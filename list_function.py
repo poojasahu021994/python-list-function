@@ -13,3 +13,9 @@ print(m)
 m = len(lis1) 
 print(lis1)
 
+list=['mango','banana','apple']
+print(list)
+
+del(list)
+print(list)
+
